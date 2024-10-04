@@ -5,7 +5,7 @@ The following program runs a Monte Carlo simulation on a 12-team fantasy footbal
 ## Install requirements.txt
 
 ```
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Set settings.json
