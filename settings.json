@@ -1,6 +1,6 @@
 {
     "num_simulations" : 10000,
-    "weeks_per_season" : 15,
-    "roster_path" : "https://docs.google.com/spreadsheets/d/1WPBT35UWnqoQ1rWIiA3BasCZ9Um6QLfkyPyIFqbDRgI/edit?usp=sharing",
-    "num_playoff_teams" : 8
+    "weeks_per_season" : 15, # make sure it is less than 24
+    "roster_path" : "https://docs.google.com/spreadsheets/d/1WPBT35UWnqoQ1rWIiA3BasCZ9Um6QLfkyPyIFqbDRgI/edit?usp=sharing", # a public export link which allows the program to load the roster data from Google Sheets
+    "num_playoff_teams" : 8 # current capabilities work best for [2, 4, 8, 12]
 }
