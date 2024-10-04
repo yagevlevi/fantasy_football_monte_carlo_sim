@@ -1,0 +1,10 @@
+pandas
+openpyxl
+numpy
+bs4
+requests
+json
+ast
+collections
+statistics
+random

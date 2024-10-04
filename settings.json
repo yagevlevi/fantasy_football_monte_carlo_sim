@@ -1,0 +1,6 @@
+{
+    "num_simulations" : 10000,
+    "weeks_per_season" : 15,
+    "roster_path" : "https://docs.google.com/spreadsheets/d/1WPBT35UWnqoQ1rWIiA3BasCZ9Um6QLfkyPyIFqbDRgI/edit?usp=sharing",
+    "num_playoff_teams" : 8
+}
