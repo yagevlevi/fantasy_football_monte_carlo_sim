@@ -2,7 +2,7 @@ pandas
 openpyxl
 numpy
 bs4
-ast
+requests
 collections
 statistics
 random
