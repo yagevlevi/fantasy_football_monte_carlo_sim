@@ -3,6 +3,5 @@ openpyxl
 numpy
 bs4
 requests
-collections
 statistics
 random
