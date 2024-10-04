@@ -4,4 +4,3 @@ numpy
 bs4
 requests
 statistics
-random
